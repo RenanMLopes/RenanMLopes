@@ -6,7 +6,7 @@
 - 📧 E-mail: renan.m.lopes2014@hotmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanMLopes&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMLopes&layout=donut&theme=radical)](https://github.com/RenanMLopes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMLopes&layout=donut&theme=radical&size_weight=0&count_weight=1)](https://github.com/RenanMLopes/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenanMLopes/RenanMLopes/output/github-contribution-grid-snake-dark.svg">
