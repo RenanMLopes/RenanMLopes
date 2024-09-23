@@ -5,7 +5,7 @@
 - ⚡ Fun fact: Nas Horas livres gosto de jogar Tenis e alguns jogos online ou de tabuleiro
 - 📧 E-mail: renan.m.lopes2014@hotmail.com
 - 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanMLopes)](https://github.com/RenanMLopes/github-readme-stats)
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenanMLopes/RenanMLopes/output/github-contribution-grid-snake-dark.svg">
